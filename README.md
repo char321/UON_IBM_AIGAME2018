@@ -19,4 +19,4 @@ Contents:
 Useful Links:
 - Project Trello Board: https://trello.com/b/E747Qbxe
 - Project Documentation: *Personal Data Worries* - maybe new link
-- Blog: 
+- Blog: https://theaitwitterarenagame.wordpress.com
